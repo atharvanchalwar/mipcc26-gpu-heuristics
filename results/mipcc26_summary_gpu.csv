@@ -1,0 +1,13 @@
+instance,rows,cols,method,objective,total_violation,max_violation,runtime_sec
+instance_01.mps.gz,6402,5664,gpu_fp,-959330.0175000001,7259,176,1.849081
+instance_02.mps.gz,16697,146071,gpu_fp,5753744.333099999,501428,221574,1.727285
+instance_03.mps.gz,1929,2351,gpu_fp,92,2984.3,674,0.310413
+instance_04.mps.gz,11818,19061,gpu_fp,312,82274.6,13054,0.303132
+instance_05.mps.gz,17788,21451,gpu_fp,289,250338,26100,0.362304
+instance_06.mps.gz,4861,122810,gpu_fp,12602741,58451,478,1.973979
+instance_07.mps.gz,2469,92552,gpu_fp,12963760,0,0,0.845255
+instance_08.mps.gz,4011,25897,gpu_fp,5078115,20207,269,0.364536
+instance_09.mps.gz,447,466,gpu_fp,336,0,0,0.018949
+instance_10.mps.gz,183,210,gpu_fp,136,0,0,0.013482
+instance_11.mps.gz,103585,51078,gpu_fp,31947,17778,13,0.654841
+instance_12.mps.gz,14793,14740,gpu_fp,10434,1823,10,0.197036
